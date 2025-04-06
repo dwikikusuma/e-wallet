@@ -1,4 +1,4 @@
-package bootstrap
+package helpers
 
 import (
 	"github.com/joho/godotenv"
